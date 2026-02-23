@@ -2,7 +2,7 @@
 
 This is the Repo of Nate and Stein's entree for the 2026 March Madness Machine Learning Mania competition!
 
-> IMPORTANT: Due to GitHub's file size limitations, raw competition datasets are not stored in this repository. *YOU MUST DOWNLOAD THE FILES DIRECTLY FROM KAGGLE.*
+IMPORTANT: Due to GitHub's file size limitations, raw competition datasets are not stored in this repository. *YOU MUST DOWNLOAD THE FILES DIRECTLY FROM KAGGLE.*
 
 ---
 
